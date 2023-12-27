@@ -236,26 +236,6 @@ export const projects = [
   },
   {
     id: 3,
-    title: 'Nature',
-    description: "Nature Explorer's Website with Bootstrap and JS Animations 🌿🌐 Overview Take a stroll through my exploration of nature on a website crafted with HTML, CSS, Bootstrap, and JavaScript animations. ",
-    image: 'https://cdn.pixabay.com/photo/2013/10/02/23/03/mountains-190055_1280.jpg',
-    tags: ['Html', 'Css', 'Bootstrap', 'Javascript'],
-    category: 'web app',
-    github: 'https://github.com/shaiksajidhussain/Nature',
-    webapp: 'https://shaiksajidhussain.github.io/Nature/',
-    member: [
-      {
-        name: 'Sajid Hussain',
-        img: 'https://avatars.githubusercontent.com/u/93574244?v=4',
-        linkedin: 'https://www.linkedin.com/in/shaiksajidhussain/',
-        github: 'https://github.com/shaiksajidhussain/'
-      },
-
-    ]
-  },
-
-  {
-    id: 4,
     title: 'ChatBot',
     description: "This project is a ChatBot implemented using HTML, CSS, and Vanilla JavaScript. The ChatBot provides a user-friendly interface for interacting with an AI-powered virtual assistant. Users can have natural language conversations with the ChatBot, making it an engaging and useful tool.",
     image: 'https://sanjusazid.netlify.app/Chatbot/bot1.jpg',
@@ -265,7 +245,7 @@ export const projects = [
     webapp: 'https://shaiksajidhussain.github.io/Chatbot/',
   },
   {
-    id: 5,
+    id: 4,
     title: 'Pinkify',
     description: "This project is a customized version of Spotify with a pink theme, and it offers an ads-free listening experience. It is built using HTML, CSS, and designed using Figma and Flutter Flow",
     image: 'https://i.pinimg.com/originals/c9/22/9e/c9229ebe60db636cb88e0985c1959dbe.jpg',
@@ -275,7 +255,7 @@ export const projects = [
     webapp: 'https://pinkish.netlify.app/',
   },
   {
-    id: 6,
+    id: 5,
     title: 'Calculator',
     description: "This project is a Calculator web application built with HTML, CSS, and Vanilla JavaScript. The calculator provides a user-friendly interface to perform basic arithmetic operations. 🔥🔥",
     image: 'https://i.gadgets360cdn.com/large/google_calculator_story_1485247846019.jpg ',
@@ -296,7 +276,7 @@ export const projects = [
   },
 
   {
-    id: 7,
+    id: 6,
     title: 'Snotes',
     description: "This project is an SNotes (Simple Notes) app with a Dark Mode feature. It is built using HTML, CSS, and JavaScript and utilizes Local Storage for data persistence",
     image: 'https://sanjusazid.netlify.app/Snotes/notes.png',
@@ -308,7 +288,7 @@ export const projects = [
 
 
   {
-    id: 8,
+    id: 7,
     title: 'Smusic',
     description: "This project is an SMusic (Simple Music) app that offers free music streaming. It is built using XML, JSX, and Flutter Flow, and it integrates with a music API to provide a wide range of songs for users to listen to",
     image: 'https://wallpapercave.com/wp/wp6090718.jpg',
@@ -318,7 +298,7 @@ export const projects = [
     webapp: 'https://shaiksajidhussain.github.io/Smusic/',
   },
   {
-    id: 9,
+    id: 8,
     title: 'Figma',
     description: "This is a tool from which i used to create a design of app, Later then by using it is as reference i will work on app",
     image: 'https://s3-alpha.figma.com/hub/file/2966856926/2f4e4570-ef9e-4fbf-9cfc-4fb952c47385-cover.png',

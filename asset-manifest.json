@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/shaiksajidhussain/personal_portfolio/static/css/main.bf538fe7.css",
-    "main.js": "/shaiksajidhussain/personal_portfolio/static/js/main.5df70228.js",
-    "static/media/sanju1.jpg": "/shaiksajidhussain/personal_portfolio/static/media/sanju1.8639885ebb4a05ce3c33.jpg",
-    "index.html": "/shaiksajidhussain/personal_portfolio/index.html",
-    "main.bf538fe7.css.map": "/shaiksajidhussain/personal_portfolio/static/css/main.bf538fe7.css.map",
-    "main.5df70228.js.map": "/shaiksajidhussain/personal_portfolio/static/js/main.5df70228.js.map"
+    "main.css": "/static/css/main.bf538fe7.css",
+    "main.js": "/static/js/main.70911d2f.js",
+    "static/media/sanju1.jpg": "/static/media/sanju1.8639885ebb4a05ce3c33.jpg",
+    "index.html": "/index.html",
+    "main.bf538fe7.css.map": "/static/css/main.bf538fe7.css.map",
+    "main.70911d2f.js.map": "/static/js/main.70911d2f.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.5df70228.js"
+    "static/js/main.70911d2f.js"
   ]
 }
